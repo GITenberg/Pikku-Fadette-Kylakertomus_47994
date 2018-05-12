@@ -1,9 +1,13 @@
 _repo: Pikku-Fadette-Kylakertomus_47994
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Peltonen, Ester
     gutenberg_agent_id: '44557'
     url: http://www.gutenberg.org/2009/agents/44557
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sand, George
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/851
     wikipedia: http://en.wikipedia.org/wiki/George_Sand
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47994#Pikku-Fadette-Kylakertomus
 gutenberg_issued: '2015-01-16'
 gutenberg_type: Text
 identifiers:
